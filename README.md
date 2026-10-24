@@ -37,6 +37,29 @@ My goal is to develop a broad understanding of different programming languages, 
 - [ ] Machine Learning<sup>2</sup>
 - [ ] Generative KI<sup>2</sup>
 - [ ] Angular<sup>6</sup>
+- [ ] Generative AI in Practice<sup>7</sup>
+- [ ] Data Analytics with Ai<sup>7</sup>
+- [ ] Data Literacy with AI<sup>7</sup>
+- [ ] Ethical AI Foundations<sup>7</sup>
+- [ ] Write with AI<sup>7</sup>
+- [ ] AI-Powered A/B Testing<sup>7</sup>
+- [ ] Prompt Engineering<sup>7</sup>
+- [ ] Visualize Your Data<sup>7</sup>
+- [ ] Introduction to LLM's<sup>7</sup>
+- [ ] Machine Learning for Beginners<sup>7</sup>
+- [ ] Brainstorm with AI<sup>7</sup>
+- [ ] Think Creatively with AI<sup>7</sup>
+- [ ] Project Planning with AI<sup>7</sup>
+- [ ] Research with AI<sup>7</sup>
+- [ ] Social Media Marketing with AI<sup>7</sup>
+- [ ] SEO with AI<sup>7</sup>
+- [ ] Vibe Coding<sup>7</sup>
+- [ ] Agentic Workflows<sup>7</sup>
+- [ ] Bias Detection and Mitigation in AI Systems<sup>7</sup>
+- [ ] AI-Powered Product & UX<sup>7</sup>
+- [ ] Growth Mindset in the Age of AI<sup>7</sup>
+- [ ] AI Agents for Beginners: How They Work (Python)<sup>7</sup>
+- [ ] Critical Thinking - AI Era Practice<sup>7</sup>
 
 ## Legend:
 
