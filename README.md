@@ -22,7 +22,8 @@ My goal is to develop a broad understanding of different programming languages, 
 - [X] Coding for Data<sup>2</sup>
 - [X] SQL Beginner<sup>3</sup>
 - [X] SQL Advanced<sup>3</sup>
-- [X] AI: Welcome to Claude<sup>7</sup>
+- [X] AI: Meet Claude<sup>7</sup>
+- [x] Generative AI in Practice<sup>7</sup>
 
 ## Courses In-Progress:
 
@@ -37,7 +38,6 @@ My goal is to develop a broad understanding of different programming languages, 
 - [ ] Machine Learning<sup>2</sup>
 - [ ] Generative KI<sup>2</sup>
 - [ ] Angular<sup>6</sup>
-- [ ] Generative AI in Practice<sup>7</sup>
 - [ ] Data Analytics with Ai<sup>7</sup>
 - [ ] Data Literacy with AI<sup>7</sup>
 - [ ] Ethical AI Foundations<sup>7</sup>
